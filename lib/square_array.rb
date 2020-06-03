@@ -1,7 +1,6 @@
 def square_array(array)
-  arr = []
-while array.count < 4 do
-   print i**2
-  i += 1
+i = 0
+arr = []
+while #our condition do
 arr << num ** 2
 end
