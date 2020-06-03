@@ -1,3 +1,3 @@
 def square_array(array)
-  # your code here
-end
+count = 0
+while array.count 
