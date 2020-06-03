@@ -1,9 +1,5 @@
 def square_array(array)
-while array.count < 
-
-
-def square_array(array)
-  arr = []
+while array.count < 4 
   array.each do |num|
 arr << num ** 2
 end
