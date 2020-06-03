@@ -1,3 +1,11 @@
 def square_array(array)
-count = 0
-while array.count 
+while array.count < 
+
+
+def square_array(array)
+  arr = []
+  array.each do |num|
+arr << num ** 2
+end
+arr
+end
