@@ -5,3 +5,5 @@ while (i < array.length) do
 arr << num ** 2
 i += 1
 end
+arr = []
+end
